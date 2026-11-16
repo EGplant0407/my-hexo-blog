@@ -25,6 +25,6 @@
     "hexo-theme-landscape": "^1.0.0"
   },
   "devDependencies": {
-    "strip-ansi": "^6.0.1"
+    "strip-ansi": "^7.2.0"
   }
 }
